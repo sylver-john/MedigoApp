@@ -1,1 +1,1 @@
-web: Medigo
+web: MedigoApp
