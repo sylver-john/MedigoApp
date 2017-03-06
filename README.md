@@ -1,2 +1,1 @@
-# MedigoApp
-Medigo Web App
+# Medigo
